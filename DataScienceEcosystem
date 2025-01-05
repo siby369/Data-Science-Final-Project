@@ -1,0 +1,165 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "ddda26ca-d1ed-4edf-a6ae-0c85b4470faa",
+   "metadata": {},
+   "source": [
+    "# Data Science Tools and Ecosystem"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "59ad496d-df1b-4043-87bf-a967efb2d83e",
+   "metadata": {},
+   "source": [
+    "In this notebook, Data Science Tools and Ecosystem are summarized."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "0af6633d-3bab-40cd-967e-cdacc9a618ef",
+   "metadata": {},
+   "source": [
+    "Some of the popular languages that Data Scientists use are:\n",
+    "1. Python\n",
+    "2. R\n",
+    "3. SQL\n",
+    "4. C++\n",
+    "5. Java etc..."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "0c50b552-a045-43c2-a5b4-12dcc8ed959b",
+   "metadata": {},
+   "source": [
+    "Some of the commonly used libraries used by Data Scientists include:\n",
+    "\n",
+    "1. TensorFlow\n",
+    "2. NumPy\n",
+    "3. SciPy\n",
+    "4. Pandas\n",
+    "5. Matplotlib\n",
+    "6. Keras\n",
+    "7. Scikit-learn\n",
+    "8. PyTorch\n",
+    "9. (Others like Apache Spark, Seaborn, etc.)\n",
+    "\n",
+    "These libraries play essential roles in different stages of data science workflows, from data manipulation (Pandas, NumPy) to machine learning and deep learning (Scikit-learn, TensorFlow, PyTorch)."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "9b1521e2-c040-41fd-ad66-238f38d25488",
+   "metadata": {},
+   "source": [
+    "## Data Science Tools\n",
+    "| Data Science Tools |\n",
+    "|--------------------|\n",
+    "| Jupyter Notebooks  |\n",
+    "| GitHub             |\n",
+    "| R Studio           |\n",
+    "| Spyder             |\n",
+    "| Zeppelin           |\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "1e0eee4a-59c4-44e1-8b06-6bee1b930e6b",
+   "metadata": {},
+   "source": [
+    "### Below are a few examples of evaluating arithmetic expressions in Python."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "id": "96b30593-bdc0-4aa8-9089-e7c75a19ef04",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "17"
+      ]
+     },
+     "execution_count": 6,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "# This is a common arithmetic example to multiply and then add integers\n",
+    "(3*4)+5"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 7,
+   "id": "15b54dd0-3836-488f-80e0-1331e117f6b2",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "3.3333333333333335"
+      ]
+     },
+     "execution_count": 7,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "# This will convert 200 minutes to hours by dividing by 60\n",
+    "200 / 60"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "26707396-432c-4748-9546-280a0ce7eba0",
+   "metadata": {},
+   "source": [
+    "__Objective__\n",
+    "\n",
+    "* List popular languages for Data Science\n",
+    "* List popular libraries for Data Science\n",
+    "* List of well-known Data Science tools\n",
+    "* How to provide comments in the cell\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "0518ca2f-6843-458e-ab42-54067497f64a",
+   "metadata": {
+    "jp-MarkdownHeadingCollapsed": true
+   },
+   "source": [
+    "## Author\n",
+    "SIBY R"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.11.9"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
